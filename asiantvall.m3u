@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Asian TV *
+https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+
+#EXTINF:-1,Asian TV
+https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+
+#EXTINF:-1,Asian TV
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+
+#EXTINF:-1,Asian TV**-
+http://103.135.208.14/live/ibox/bd/2.m3u8
+
+#EXTINF:-1,Asian TV Backup****
+http://103.135.208.14/live/ibox/bd/31.m3u8
