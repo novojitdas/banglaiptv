@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Channel I
+https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+
+#EXTINF:-1,Channel Iyh
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+
+#EXTINF:-1,Channel I
+http://iptv.kitv.live:1935/live/Shari/MTV-P/108.m3u8
+
+#EXTINF:-1,Channel I
+http://ddn.amrbd.com:8081/live/channeli/playlist.m3u8
+
+#EXTINF:-1,Channel I
+http://103.135.208.14/live/ibox/bd/17.m3u8
