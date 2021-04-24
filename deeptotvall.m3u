@@ -1,25 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,Deepto TV
-https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-
-#EXTINF:-1,Deepto TV
-https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-
-#EXTINF:-1,Deepto TV
-http://103.205.133.14/hls/deeptotv.m3u8
 
 #EXTINF:-1,Deepto TV
 http://103.205.133.19/hls/deeptotv.m3u8
-
-#EXTINF:-1,Deepto TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/109.m3u8
-
-#EXTINF:-1,Deepto TV
-http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
-
-#EXTINF:-1,Deepto TV
-http://ddn.amrbd.com:8081/live/deepto/playlist.m3u8
 
 #EXTINF:-1,Deepto TV
 http://pioneer.anytv.live:8080/deepto/tracks-v1a1/mono.m3u8
